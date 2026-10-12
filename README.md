@@ -1,5 +1,5 @@
 
-## 💫 About Me
+About Me
 
 - 💻 Software Developer specializing in Web Development, Mobile Applications & Custom Software
 - 🚀 Founder of **Nexora Digital Solutions**
